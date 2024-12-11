@@ -79,9 +79,9 @@ body {
     background-color: #1abc9c; 
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (min-width: 100px) and (max-width: 1000px) {
     #calculator {
-        width: 350px;
-        height: 450px;
+        width: 450px;
+        height: 550px;
     }
 }
