@@ -84,4 +84,8 @@ body {
         width: 350px;
         height: 450px;
     }
+
+    body {
+        overflow: visible;
+    }
 }
